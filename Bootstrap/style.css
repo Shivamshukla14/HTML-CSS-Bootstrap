@@ -19,9 +19,12 @@ body{
     height: 100%;
 }
 
+.heightline{
+    height: 100vh;
+}
 
 .carousel-item{
-    height: 92.5vh;
+    height: 100vh;
 }
 
 #featured-products-carousel{
@@ -32,3 +35,12 @@ body{
 .learn-button{
     margin-bottom: 20%;
 }
+
+.block-2{
+    background-color: #ff7f08;
+}
+
+.block-3{
+    background-color: #123456;
+}
+
