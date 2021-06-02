@@ -1,6 +1,34 @@
+html,
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
 .block{
-    background-color: cyan;
-    outline-style: solid;
-    outline-color: black;
-    outline-width: thick;
+    color: white;
+    padding: 5%;
+}
+
+.block-1{
+    background-color: #123456;
+}
+
+.height-line{
+    padding-top: 8%;
+    height: 100%;
+}
+
+
+.carousel-item{
+    height: 92.5vh;
+}
+
+#featured-products-carousel{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.learn-button{
+    margin-bottom: 20%;
 }
